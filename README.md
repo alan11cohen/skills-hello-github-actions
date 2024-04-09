@@ -4,7 +4,7 @@
   <<< Author notes: Course header >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  Add your open source license, GitHub uses MIT license. :)
 -->
 
 # Hello GitHub Actions
@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now got a fully functioning workflow! :smile:_
+_You've now got a fully functioning workflow! 
 
 Your new action will run any time a pull request has been opened.
 
